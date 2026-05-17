@@ -1,4 +1,3 @@
-你好！我是梦醒细无声 👋
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxxws&show_icons=true)
+[![Anurag's GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=mxxws)](https://github.com/anuraghazra/github-readme-stats)
